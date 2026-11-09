@@ -1,0 +1,6 @@
+Makecatalogue no incluye valores para numnompremot_x … los agregué a mano
+
+Después corregir si estoy con ganas
+
+
+Por lo tanto: Numero.cc no se genera bien. lo estoy comentando

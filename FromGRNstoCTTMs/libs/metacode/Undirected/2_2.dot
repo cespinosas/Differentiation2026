@@ -1,0 +1,9 @@
+graph G {
+layout = neato;
+node[shape=circle,label=""];
+0[pos = "-0.707106,0.707107!"];
+1[pos = "0.707106,-0.707108!"];
+	0  --  0 [headport=w,tailport=n];
+	0  --  1;
+	1  --  1 [headport=e,tailport=s];
+}
